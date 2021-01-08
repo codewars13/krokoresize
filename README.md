@@ -1,1 +1,1 @@
-# krokoresize
+# Image slider
